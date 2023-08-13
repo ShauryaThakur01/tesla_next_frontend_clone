@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "install": "npm install --legacy-peer-deps"
+    "build": "npm install --legacy-peer-deps"
   },
   "dependencies": {
     "@react-md/icon": "^5.1.3",
