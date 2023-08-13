@@ -6,7 +6,7 @@
     "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
-    "build": "npm install --legacy-peer-deps"
+    "build": "npm install --force && next build"
   },
   "dependencies": {
     "@react-md/icon": "^5.1.3",
